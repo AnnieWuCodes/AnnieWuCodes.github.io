@@ -263,9 +263,10 @@ body{
         display: none;
     }
     .nav li a{
-        position: center;
+        position: relative;
+        right: 20px;
         width: auto; 
-        height: 100px;
+        height: 200px;
         float: none;
         font-size: 50px;
         margin: 0;
@@ -273,18 +274,23 @@ body{
 
     .text-over h5{
         font-size: 60px;
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
     .text-over p{
         font-size: 50px
+        padding-left: 20px;
+        padding-right: 20px;
     }
 
     .about-text h2{
-        font-size: 60px;
+        font-size: 80px;
     }
 
     .about-text p{
         font-size: 50px;
+        line-height: 100px;
     }
 
     .review h6{
@@ -293,7 +299,7 @@ body{
 
     .review p{
         font-size: 50px;
-        line-height: 1.5rem;
+        line-height: 100px;
     }
 
     .info h4{
@@ -316,6 +322,15 @@ body{
     p{
         font-size: 50px;
     }
+
+    .copyright p{
+        font-size: 20px;
+    }
+
+    .header{
+        height: 200px;
+    }
+    
     .gallery img{
         height: 400px;
         width: 600px;
@@ -328,7 +343,7 @@ body{
 
     .about-container{
         padding:none;
-        margin: none;
+        margin: 50px;
         display: block;
     }
 

@@ -260,4 +260,9 @@ body{
     }
     .name a{
         display: none;
+    }
+    .nav{
+        position: center;
+    }
 }
+

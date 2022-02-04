@@ -265,8 +265,9 @@ body{
     .nav li a{
         position: center;
         width: auto; 
+        height: 100px;
         float: none;
-        font-size: 32px;
+        font-size: 50px;
         margin: 0;
     }
 
@@ -278,11 +279,11 @@ body{
         font-size: 50px
     }
 
-    .about h2{
+    .about-text h2{
         font-size: 60px;
     }
 
-    .about p{
+    .about-text p{
         font-size: 50px;
     }
 
@@ -291,6 +292,15 @@ body{
     }
 
     .review p{
+        font-size: 50px;
+        line-height: 1.5rem;
+    }
+
+    .info h4{
+        font-size: 50px;
+    }
+
+    .info p{
         font-size: 50px;
     }
 
@@ -323,8 +333,8 @@ body{
     }
 
     .banner-container{
-        padding: none;
-        margin:none;
+        padding: 10px;
+        margin:20px;
         display: block;
     }
   }

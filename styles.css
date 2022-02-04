@@ -293,7 +293,7 @@ body{
     .review p{
         font-size: 50px;
     }
-    
+
     h2{
         font-size: 80px;
     }
@@ -313,5 +313,16 @@ body{
     }
     .review-container{
         max-width: 100%;
+        display:block;
     }
-  
+
+    .about-container{
+        padding:none;
+        margin: none;
+    }
+
+    .banner-container{
+        padding: none;
+        margin:none;
+    }
+  }

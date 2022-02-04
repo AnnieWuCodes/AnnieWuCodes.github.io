@@ -254,7 +254,7 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
     .text-over h1{
-        font-size:2rem;
+        font-size:44px;
     }
     .gallery img{
         margin: 0;

@@ -333,8 +333,9 @@ body{
     }
 
     .banner-container{
-        padding: 10px;
-        margin:20px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 20px;
         display: block;
     }
   }

@@ -253,14 +253,11 @@ body{
   and (min-device-width: 375px) 
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-    .text-over h1{
+    h1{
         font-size:44px;
     }
     .gallery img{
         margin: 0;
-    }
-    body{
-        font-size: 44px;
     }
     .name a{
         display: none;
@@ -270,4 +267,14 @@ body{
         width: auto; 
         float: none;
     }
-}
+    h2{
+        font-size: 18px;
+    }
+    h5{
+        font-size: 16px;
+    }
+    .gallery img{
+        height: 500px;
+        width:600;
+        margin: 0;
+    }

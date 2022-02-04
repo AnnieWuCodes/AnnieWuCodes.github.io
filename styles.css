@@ -248,7 +248,7 @@ body{
     Font-Family: 'Roboto', Sans-Serif;
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 375px){
     .text-over{
         font-size:2rem;
     }

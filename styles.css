@@ -271,11 +271,21 @@ body{
     h2{
         font-size: 32px;
     }
+    h4{
+        font-size: 20px;
+    }
     h5{
         font-size: 20px;
+    }
+    p{
+        font-size: 16px;
     }
     .gallery img{
         height: 500px;
         width:600;
         margin: 0;
     }
+    .review-container{
+        max-width: 100%;
+    }
+  }

@@ -1,0 +1,249 @@
+body{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: black;
+    background-color: white;
+    opacity:0.9;
+    text-align:center;
+    margin:0;
+}
+
+.header{
+    display: block;
+    width:100%;
+    background-color:#003858;
+    color:white;
+    position:fixed;
+}
+
+.name{
+    float: left;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    font-size: 1.2rem;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+
+.name a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav{
+    display:inline-flex;
+    list-style: none;
+    text-decoration-line: none;
+    position: relative;
+    left: 50px;
+}
+
+.header li a{
+    text-decoration: none;
+    padding: 25px;
+    font-size: 0.9rem;
+    color: white;
+    Font-Family: 'Lora', Serif;
+}
+
+.header li :hover{
+    background-color: seashell;
+    color: black;
+}
+
+.banner-container{
+    background-color: white;
+    height: 350px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.text-over{
+    text-align: center;
+    padding-top: 75px;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+
+.text-over h5{
+    font-size: 20px;
+}
+
+.text-over p{
+    font-size: 14px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    Font-Family: 'Lora', Serif;
+}
+
+.text-over h1{
+    color: #003858;
+}
+
+.button{
+    margin: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: lightslategray;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border: none;
+    font-size: 1.25rem;
+    display: none;
+}
+
+.button:hover{
+    background-color: seashell;
+    border: 1px lightslategray solid;
+    color:black;
+    cursor: pointer;
+}
+
+.site-image{
+    display: center;
+    height: 500px;
+
+}
+
+.about-container{
+    padding-bottom: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 100%;
+    display: center;
+    position: center;
+
+}
+
+.about-text{
+  
+}
+
+.about-text h2{
+    color: #003858;
+    padding-top: 25px;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+
+.about-text p{
+    color: black;
+    font-size: 16px;
+    line-height: 2rem;
+    width: 100%;
+    Font-Family: 'Lora', Serif;
+}
+
+.review-text-top{
+    margin-top: 60px;
+}
+
+.review-container{
+    max-width: 1500px;
+    display: inline-flex;
+    justify-content:space-around;
+    background-color: seashell
+}
+
+.review{
+    height: 100%;
+    padding: 20px;
+    flex-basis:30%;
+    box-sizing: border-box;
+    align-content: center;
+    justify-content: center;
+    Font-Family: 'Lora', Serif;
+}
+
+.review-text-top h2{
+    color: #003858;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+
+.review p{
+    font-size: 16px;
+    padding-left:20px;
+    padding-right:20px;
+    Font-Family: 'Lora', Serif;
+    line-height: 1.4rem;
+}
+
+.star{
+    color: goldenrod;
+}
+
+.gallery-text-top h2{
+    color:#003858;
+    padding-top: 30px;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+
+.gallery-container {
+    display: inline-flex;
+    max-width: 1500px;
+    height: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery img{
+    height: 250px;
+    width: 300px;
+    justify-content:spcae-between;
+    margin: 15px;
+
+}
+
+.contact-container{
+    width: 100%;
+    display: inline-flex;
+    justify-content:space-around;
+    background-color: seashell;
+    border-top: 1px rosybrown solid;
+    margin-top: 50px;
+    padding: 20px;
+    padding-bottom: 20px;
+}
+
+.info{
+    height: 100%;
+    padding: 20px;
+    flex-basis:30%;
+    box-sizing: border-box;
+    align-content: center;
+    justify-content: center;
+}
+
+.contact-text-top h2{
+    color: slategray;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+
+.info p{
+    font-size: 16px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align: left;
+    Font-Family: 'Lora', Serif;
+}
+
+.info h4{
+    font-size: 20px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align: left;
+    Font-Family: 'Roboto', Sans-Serif;
+    color:#003858;
+}
+
+.copyright{
+    font-size: 10px;
+    background-color:seashell;
+    width:100%;
+    float:left;
+    text-align:center;
+    Font-Family: 'Roboto', Sans-Serif;
+}

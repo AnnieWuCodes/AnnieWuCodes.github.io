@@ -254,7 +254,7 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
     h1{
-        font-size:44px;
+        font-size:100px;
     }
     .gallery img{
         margin: 0;
@@ -266,12 +266,13 @@ body{
         position: center;
         width: auto; 
         float: none;
+        font-size: 25px;
     }
     h2{
-        font-size: 18px;
+        font-size: 32px;
     }
     h5{
-        font-size: 16px;
+        font-size: 20px;
     }
     .gallery img{
         height: 500px;

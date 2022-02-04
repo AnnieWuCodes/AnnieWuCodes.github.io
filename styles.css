@@ -268,3 +268,23 @@ body{
     }
 }
 
+@media (max-width: 470px){
+    .text-over h1{
+        font-size:2rem;
+    }
+    .gallery img{
+        margin: 0;
+    }
+    body{
+        font-size: 44px;
+    }
+    .name a{
+        display: none;
+    }
+    .nav{
+        position: center;
+        width: auto; 
+        float: none;
+    }
+}
+

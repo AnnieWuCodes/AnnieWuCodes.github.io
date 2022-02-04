@@ -262,23 +262,23 @@ body{
     .name a{
         display: none;
     }
-    .nav li{
+    .nav a{
         position: center;
         width: auto; 
         float: none;
         font-size: 32px;
     }
     h2{
-        font-size: 60px;
+        font-size: 80px;
     }
     h4{
-        font-size: 50px;
+        font-size: 60px;
     }
     h5{
-        font-size: 50px;
+        font-size: 60px;
     }
     p{
-        font-size: 32px;
+        font-size: 50px;
     }
     .gallery img{
         height: 400px;

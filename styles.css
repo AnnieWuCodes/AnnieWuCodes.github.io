@@ -247,3 +247,17 @@ body{
     text-align:center;
     Font-Family: 'Roboto', Sans-Serif;
 }
+
+@media only screen and (max-width: 480px){
+    .text-over{
+        font-size:2rem;
+    }
+    .gallery img{
+        margin =0;
+    }
+    body{
+        font-size: 2rem;
+    }
+    .name a{
+        display: none;
+}

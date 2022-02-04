@@ -262,12 +262,38 @@ body{
     .name a{
         display: none;
     }
-    .nav a{
+    .nav li a{
         position: center;
         width: auto; 
         float: none;
         font-size: 32px;
+        margin: 0;
     }
+
+    .text-over h5{
+        font-size: 60px;
+    }
+
+    .text-over p{
+        font-size: 50px
+    }
+
+    .about h2{
+        font-size: 60px;
+    }
+
+    .about p{
+        font-size: 50px;
+    }
+
+    .review h6{
+        font-size: 50px;
+    }
+
+    .review p{
+        font-size: 50px;
+    }
+    
     h2{
         font-size: 80px;
     }

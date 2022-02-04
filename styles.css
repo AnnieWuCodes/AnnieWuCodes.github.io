@@ -256,14 +256,15 @@ body{
         margin: 0;
     }
     body{
-        font-size: 2rem;
+        font-size: 44px;
     }
     .name a{
         display: none;
     }
     .nav{
         position: center;
-        width: auto;
+        width: 100%;
+        
     }
 }
 

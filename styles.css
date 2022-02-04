@@ -192,7 +192,7 @@ body{
 .gallery img{
     height: 250px;
     width: 300px;
-    justify-content:spcae-between;
+    justify-content:space-between;
     margin: 15px;
 
 }
@@ -248,7 +248,7 @@ body{
     Font-Family: 'Roboto', Sans-Serif;
 }
 
-@media only screen and (max-width: 375px){
+@media only screen and (max-width: 470px){
     .text-over{
         font-size:2rem;
     }
@@ -263,8 +263,8 @@ body{
     }
     .nav{
         position: center;
-        width: 100%;
-        
+        width: auto; 
+        float: none;
     }
 }
 

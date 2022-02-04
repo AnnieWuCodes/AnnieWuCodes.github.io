@@ -319,10 +319,12 @@ body{
     .about-container{
         padding:none;
         margin: none;
+        display: block;
     }
 
     .banner-container{
         padding: none;
         margin:none;
+        display: block;
     }
   }

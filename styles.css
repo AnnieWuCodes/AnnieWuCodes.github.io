@@ -262,27 +262,27 @@ body{
     .name a{
         display: none;
     }
-    .nav{
+    .nav li{
         position: center;
         width: auto; 
         float: none;
-        font-size: 25px;
-    }
-    h2{
         font-size: 32px;
     }
+    h2{
+        font-size: 60px;
+    }
     h4{
-        font-size: 20px;
+        font-size: 50px;
     }
     h5{
-        font-size: 20px;
+        font-size: 50px;
     }
     p{
-        font-size: 16px;
+        font-size: 32px;
     }
     .gallery img{
-        height: 500px;
-        width:600;
+        height: 400px;
+        width: 600px;
         margin: 0;
     }
     .review-container{

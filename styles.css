@@ -18,11 +18,16 @@ body{
 
 .name{
     float: left;
-    padding: 10px;
+    
     margin: 10px;
     justify-content: center;
     font-size: 1.2rem;
     Font-Family: 'Roboto', Sans-Serif;
+    width: 1500px; 
+    height: 250px;
+    padding: 40px;
+    position: relative;
+    top: 20px;
 }
 
 .name a{

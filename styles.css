@@ -275,59 +275,64 @@ body{
         padding-top: 20px;
     }
 
+    .header li :hover{
+        height: 100%;
+    }
+
     .text-over h5{
-        font-size: 60px;
+        font-size: 80px;
         padding-left: 0;
         padding-right: 0;
     }
 
     .text-over p{
-        font-size: 50px;
+        font-size: 80px;
         padding-left: 0;
         padding-right: 0;
     }
 
     .about-text h2{
-        font-size: 80px;
+        font-size: 100px;
     }
 
     .about-text p{
-        font-size: 50px;
+        font-size: 70px;
         line-height: 100px;
     }
 
     .review h6{
-        font-size: 50px;
+        font-size: 70px;
     }
 
     .review p{
-        font-size: 50px;
+        font-size: 70px;
         line-height: 100px;
     }
 
     .info h4{
-        font-size: 50px;
+        font-size: 80px;
     }
 
     .info p{
-        font-size: 50px;
+        font-size: 80px;
     }
 
     h2{
-        font-size: 80px;
+        font-size: 100px;
     }
     h4{
-        font-size: 60px;
+        font-size: 80px;
     }
     h5{
-        font-size: 60px;
+        font-size: 70px;
     }
     p{
-        font-size: 50px;
+        font-size: 70px;
     }
 
     .copyright p{
-        font-size: 20px;
+        font-size: 40px;
+        width: 1500px;
     }
 
     .header{

@@ -254,7 +254,7 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
     h1{
-        font-size:200px;
+        font-size:150px;
         padding-top: 300px;
     }
     .gallery img{
@@ -301,8 +301,7 @@ body{
     }
 
     .review-text-top{
-        position: relative;
-        left: 200px;
+        margin: auto auto;
     }
 
     .review h6{
@@ -338,18 +337,19 @@ body{
     .copyright p{
         font-size: 40px;
         width: 1500px;
-        background-color:white;
+        background-color:seashell;
+        padding-top: 40px;
     }
 
     .header{
-        height: 400px;
+        height: 100px;
         margin: 0;
         margin-top: 0;
     }
 
     .gallery-text-top{
         position: relative;
-        left: 200px;
+        left: 300px;
     }
 
     .gallery img{
@@ -365,7 +365,7 @@ body{
     .about-container{
         width: 1500px;
         padding:0;
-        margin-top: 500px;
+        margin-top: 1200px;
         display: block;
     }
 
@@ -386,6 +386,7 @@ body{
 
     .contact-container{
         width: 1500px;
+        height: 1000px;
     }
 
     .star{

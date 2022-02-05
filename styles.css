@@ -336,20 +336,15 @@ body{
     }
 
     .copyright p{
-        display: block; 
-        font-size: 40px;
-        width: 1500px;
-        background-color:seashell;
-        padding-top: 40px;
-        float: none;
+        display: none;
     }
 
     .header{
         height: 300px;
-        margin: 0;
-        margin-top: 0;
-        position: relative;
-        width: 100%;
+        margin: 0px;
+        margin-top: 0px;
+        position: fixed;
+        width: 1500px;
         z-index: 10;
     }
 
@@ -395,7 +390,7 @@ body{
 
     .contact-container{
         width: 1500px;
-        height: 1800px;
+        height: 1200px;
     }
 
     .star{

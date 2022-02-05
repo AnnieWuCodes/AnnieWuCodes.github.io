@@ -363,6 +363,7 @@ body{
     .review-container{
         width: 1500px;
         display: block;
+        padding-top: 10px;
     }
 
     .about-container{

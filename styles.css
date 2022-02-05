@@ -276,10 +276,6 @@ body{
         padding-top: 40px;
     }
 
-    .header li :hover{
-        height: 100%;
-        position: fixed;
-    }
 
     .text-over h5{
         font-size: 80px;

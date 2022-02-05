@@ -266,19 +266,18 @@ body{
         display: none;
     }
     .nav li a{
-        position: relative;
-        top: 50px;
-        right: 70px;
         width: 1500px; 
         height: 250px;
         float: none;
-        font-size: 50px;
-        margin: 0;
-        padding-top: 20px;
+        font-size: 80px;
+        margin: 0 auto;
+        padding-top: 40px;
+        position: fixed;
     }
 
     .header li :hover{
         height: 100%;
+        position: fixed;
     }
 
     .text-over h5{
@@ -303,8 +302,7 @@ body{
     }
 
     .review-text-top{
-        position: relative;
-        left: 300px;
+        float: none;
     }
 
     .review h6{
@@ -349,11 +347,11 @@ body{
         height: 300px;
         margin: 0;
         margin-top: 0;
+        position: fixed;
     }
 
     .gallery-text-top{
-        position: relative;
-        left: 300px;
+        float: none;
     }
 
     .gallery img{
@@ -393,7 +391,7 @@ body{
 
     .contact-container{
         width: 1500px;
-        height: 2000px;
+        height: 1800px;
     }
 
     .star{

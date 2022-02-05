@@ -255,6 +255,7 @@ body{
   and (-webkit-min-device-pixel-ratio: 3) { 
     h1{
         font-size:100px;
+        padding-top: 300px;
     }
     .gallery img{
         margin: 0;

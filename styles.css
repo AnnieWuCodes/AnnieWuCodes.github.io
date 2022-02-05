@@ -40,13 +40,13 @@ body{
 
 .header li a{
     text-decoration: none;
-    padding: 25px;
+    padding: 0px;
     font-size: 0.9rem;
     color: white;
     Font-Family: 'Lora', Serif;
     position: relative;
     right: 40px;
-    top: 40px;
+    
 }
 
 .header li :hover{

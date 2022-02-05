@@ -256,6 +256,8 @@ body{
     h1{
         font-size:150px;
         padding-top: 300px;
+        position: relative;
+        right: 20px;
     }
     .gallery img{
         margin: 0;
@@ -283,12 +285,16 @@ body{
         font-size: 80px;
         padding-left: 0;
         padding-right: 0;
+        position: relative;
+        right: 20px;
     }
 
     .text-over p{
         font-size: 80px;
         padding-left: 0;
         padding-right: 0;
+        position: relative;
+        right: 20px;
     }
 
     .about-text h2{
@@ -298,6 +304,8 @@ body{
     .about-text p{
         font-size: 70px;
         line-height: 100px;
+        position: relative;
+        right: 20px;
     }
 
     .review-text-top{

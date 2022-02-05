@@ -345,7 +345,7 @@ body{
     }
 
     .header{
-        height: 100px;
+        height: 300px;
         margin: 0;
         margin-top: 0;
     }
@@ -364,20 +364,21 @@ body{
         width: 1500px;
         display: block;
         padding-top: 10px;
+        margin: 0 auto;
     }
 
     .about-container{
         width: 1500px;
-        padding-left: 15px;
-        padding-right: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
         margin-top: 1200px;
         display: block;
     }
 
     .banner-container{
         width: 1500px;
-        padding-left: 15px;
-        padding-right: 15px;
+        padding-left: 30px;
+        padding-right: 30px;
         margin-top: 100px;
         margin: 20px;
         display: block;

@@ -321,7 +321,7 @@ body{
     }
 
     .info p{
-        font-size: 80px;
+        font-size: 60px;
     }
 
     h2{
@@ -342,6 +342,7 @@ body{
         width: 1500px;
         background-color:seashell;
         padding-top: 40px;
+        float: none;
     }
 
     .header{

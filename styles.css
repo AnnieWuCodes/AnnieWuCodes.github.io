@@ -272,7 +272,6 @@ body{
         font-size: 80px;
         margin: 0 auto;
         padding-top: 40px;
-        position: fixed;
     }
 
     .header li :hover{
@@ -302,7 +301,8 @@ body{
     }
 
     .review-text-top{
-        float: none;
+        position: relative;
+        left: 300px;
     }
 
     .review h6{
@@ -351,7 +351,8 @@ body{
     }
 
     .gallery-text-top{
-        float: none;
+        position: relative;
+        left: 300px;
     }
 
     .gallery img{

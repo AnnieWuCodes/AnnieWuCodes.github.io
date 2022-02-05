@@ -367,6 +367,10 @@ body{
         z-index: 10;
     }
 
+    header{
+        padding: 0;
+    }
+
     .gallery-text-top{
         position: relative;
         left: 250px;

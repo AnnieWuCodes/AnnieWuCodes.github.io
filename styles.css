@@ -44,6 +44,9 @@ body{
     font-size: 0.9rem;
     color: white;
     Font-Family: 'Lora', Serif;
+    position: relative;
+    right: 40px;
+    top: 40px;
 }
 
 .header li :hover{
@@ -373,7 +376,7 @@ body{
         width: 1500px;
         padding-left: 30px;
         padding-right: 30px;
-        margin-top: 1200px;
+        margin-top: 1000px;
         display: block;
     }
 

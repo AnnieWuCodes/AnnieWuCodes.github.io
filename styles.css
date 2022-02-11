@@ -269,10 +269,11 @@ body{
     }
     .nav li a{
         width: 1500px; 
-        height: 250px;
         float: none;
         font-size: 80px;
         padding: 40px;
+        position: relative;
+        right: 200px;
     }
 
     .text-over h5{
@@ -344,9 +345,9 @@ body{
     }
 
     header{
-        padding: 20px;
         width: 1500px;
         text-align: center;
+        padding: 40px;
     }
 
     .gallery-text-top{

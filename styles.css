@@ -275,7 +275,7 @@ body{
         padding: 40px;
         position: relative;
         top: 15px;
-        right: 100px;
+        right: 200px;
     }
 
 
@@ -346,7 +346,6 @@ body{
     .copyright p{
         display: none;
     }
-
 
     header{
         padding: 0;

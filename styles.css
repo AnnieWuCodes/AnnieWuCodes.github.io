@@ -273,7 +273,6 @@ body{
         width: 1500px;
         text-align: center;
         padding: 40px;
-        z-index: 20;
     }
     
     .nav li a{
@@ -290,7 +289,6 @@ body{
 
     .nav li a: hover{
         opacity: 100%;
-        z-index: 20;
     }
 
     .text-over h5{

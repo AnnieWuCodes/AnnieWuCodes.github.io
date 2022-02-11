@@ -16,12 +16,13 @@ body{
     position:fixed;
 }
 
-.name{
+.name {
     float: left;
-    margin: 10px;
     justify-content: center;
     font-size: 1.2rem;
-    Font-Family: 'Roboto', Sans-Serif;
+    font-family: Roboto, sans-serif;
+    padding: 10px;
+    margin: 10px;
 }
 
 .name a{

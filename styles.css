@@ -29,14 +29,12 @@ body{
     text-decoration: none;
 }
 
-.nav{
-    display:inline-flex;
-    list-style: none;
+.nav {
+    display: inline-flex;
     text-decoration-line: none;
     position: relative;
     left: 50px;
-    padding: 20px;
-    background color:
+    list-style: none;
 }
 
 .header li a{

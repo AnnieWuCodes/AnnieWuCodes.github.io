@@ -283,6 +283,7 @@ body{
         padding: 40px;
         position: relative;
         right: 100px;
+        display:block;
     }
 
     .nav li a: hover{

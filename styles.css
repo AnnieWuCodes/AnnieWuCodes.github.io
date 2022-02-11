@@ -285,6 +285,8 @@ body{
         float: none;
         font-size: 80px;
         padding: 40px;
+        position: relative;
+        bottom: 40px;
        
     }
 

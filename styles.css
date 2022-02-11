@@ -264,9 +264,17 @@ body{
         height: 500px;
         width: 600px;
     }
+
     .name a{
         display: none;
     }
+
+    header{
+        width: 1500px;
+        text-align: center;
+        padding: 40px;
+    }
+    
     .nav li a{
         width: 1500px; 
         float: none;
@@ -342,12 +350,6 @@ body{
 
     .copyright p{
         display: none;
-    }
-
-    header{
-        width: 1500px;
-        text-align: center;
-        padding: 40px;
     }
 
     .gallery-text-top{

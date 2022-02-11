@@ -40,6 +40,11 @@ body{
     list-style: none;
 }
 
+.nav li a{
+    padding-left:10px;
+    padding-right:10px;
+}
+
 .header li a{
     text-decoration: none;
     padding: 5px;

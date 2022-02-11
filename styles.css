@@ -275,6 +275,7 @@ body{
         padding: 40px;
         position: relative;
         top: 15px;
+        opacity: 100%;
     }
 
     .text-over h5{
@@ -352,6 +353,7 @@ body{
         position: fixed;
         width: 1500px;
         z-index: 0;
+        opacity: 100%;
     }
 
     .gallery-text-top{

@@ -16,15 +16,13 @@ body{
     position:fixed;
 }
 
-.name {
+.name{
     float: left;
+    padding: 10px;
+    margin: 10px;
     justify-content: center;
     font-size: 1.2rem;
-    font-family: Roboto, sans-serif;
-    padding: 10px;
-    padding-right:20px;
-    padding-left: 20px;
-    margin: 10px;
+    Font-Family: 'Roboto', Sans-Serif;
 }
 
 .name a{
@@ -32,30 +30,20 @@ body{
     text-decoration: none;
 }
 
-.nav {
-    display: inline-flex;
+.nav{
+    display:inline-flex;
+    list-style: none;
     text-decoration-line: none;
     position: relative;
     left: 50px;
-    list-style: none;
-}
-
-.nav li a{
-    padding-left:10px;
-    padding-right:10px;
 }
 
 .header li a{
     text-decoration: none;
-    padding: 5px;
+    padding: 25px;
     font-size: 0.9rem;
     color: white;
-    background-color: #0f4f74;
     Font-Family: 'Lora', Serif;
-    position: relative;
-    right: 40px;
-    margin: 0 auto;
-    
 }
 
 .header li :hover{
@@ -204,7 +192,7 @@ body{
 .gallery img{
     height: 250px;
     width: 300px;
-    justify-content:space-between;
+    justify-content:spcae-between;
     margin: 15px;
 
 }

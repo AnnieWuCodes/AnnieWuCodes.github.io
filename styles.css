@@ -264,7 +264,9 @@ body{
         height: 800px;
         display: block;
         margin: 20px;
-        justify-content: center;
+        position: relative;
+        left: 150px;
+        top: 1000px;
     }
     
 

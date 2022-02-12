@@ -290,7 +290,7 @@ body{
         padding: 10px;
         position: relative;
         right: 70px;
-        z-index: 10;
+        z-index: 20;
     }
 
     .header li :hover{

@@ -369,8 +369,8 @@ body{
     }
 
     .gallery img{
-        height: 500px;
-        width: 750px;
+        height: 800px;
+        width: 1200px;
         margin: 10px;
         display: inline-block;
     }

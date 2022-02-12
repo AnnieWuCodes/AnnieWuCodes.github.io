@@ -259,11 +259,12 @@ body{
         position: relative;
         right: 20px;
     }
-    .gallery img{
-        margin: 0;
-        height: 500px;
-        width: 600px;
+    .site-image{
+        width: 1200px;
+        display: block;
+        margin: 20px;
     }
+    
 
     .name a{
         display: none;

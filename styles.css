@@ -192,7 +192,7 @@ body{
 .gallery img{
     height: 250px;
     width: 300px;
-    justify-content:spcae-between;
+    justify-content:space-between;
     margin: 15px;
 
 }

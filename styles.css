@@ -361,9 +361,10 @@ body{
     }
 
     .gallery img{
-        height: 400px;
-        width: 600px;
-        margin: 0;
+        height: 500px;
+        width: 750px;
+        margin: 10px;
+        display: inline-block;
     }
     .review-container{
         width: 1600px;

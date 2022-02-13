@@ -264,6 +264,7 @@ body{
         padding-top: 40px;
         padding-bottom: 40px;
         background-color:#003858;
+        z-index: 1000;
     }
     
     .nav li a{
@@ -275,8 +276,6 @@ body{
         right: 70px;
         z-index: 20;
         justify-content: space-between;
-        background-color:white;
-
     }
 
     .header li :hover{
@@ -300,6 +299,7 @@ body{
         left: 150px;
         top: 1300px;
         padding-bottom: 300px;
+        z-index:-1;
     }
 
     .text-over h5{

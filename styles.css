@@ -275,6 +275,8 @@ body{
         right: 70px;
         z-index: 20;
         justify-content: space-between;
+        background-color:white;
+
     }
 
     .header li :hover{
@@ -298,7 +300,6 @@ body{
         left: 150px;
         top: 1300px;
         padding-bottom: 300px;
-        background-color: white;
     }
 
     .text-over h5{
@@ -307,7 +308,6 @@ body{
         padding-right: 0;
         position: relative;
         right: 20px;
-        background-color: white;
     }
 
     .text-over p{
@@ -316,14 +316,12 @@ body{
         padding-right: 0;
         position: relative;
         right: 20px;
-        background-color: white;
     }
 
     .about-text h2{
         font-size: 100px;
         position: relative;
         right: 7px;
-        background-color: white;
     }
 
     .about-text p{
@@ -331,24 +329,20 @@ body{
         line-height: 100px;
         position: relative;
         right: 20px;
-        background-color: white;
     }
 
     .review-text-top{
         position: relative;
         left: 250px;
-        background-color: white;
     }
 
     .review h6{
         font-size: 70px;
-        background-color: white;
     }
 
     .review p{
         font-size: 70px;
         line-height: 100px;
-        background-color: white;
     }
 
     .info h4{
@@ -379,7 +373,6 @@ body{
     .gallery-text-top{
         position: relative;
         left: 250px;
-        background-color: white;
     }
 
     .gallery img{
@@ -401,7 +394,7 @@ body{
         padding-right: 30px;
         margin-top: 1000px;
         display: block;
-        background-color: white;
+
     }
 
     .banner-container{
@@ -411,14 +404,12 @@ body{
         margin-top: 100px;
         margin: 20px;
         display: block;
-        background-color: white;
     }
 
     .gallery-container{
         width: 1500px;
         padding: 0;
         margin: 0;
-        background-color: white;
     }
 
     .contact-container{

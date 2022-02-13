@@ -266,6 +266,7 @@ body{
         background-color:#003858;
         z-index: 1000;
         margin: 0;
+        display: block;
     }
     
     .nav li a{

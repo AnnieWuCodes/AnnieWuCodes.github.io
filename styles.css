@@ -277,9 +277,9 @@ body{
         font-size: 70px;
         padding-left: 50px;
         padding-right: 50px;
+        padding-top: 50px;
         position: relative;
         right: 80px;
-        z-index: 20;
         justify-content: space-between;
     }
 

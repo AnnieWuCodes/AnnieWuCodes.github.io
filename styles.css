@@ -289,6 +289,7 @@ body{
         padding-top: 100px;
         position: relative;
         right: 20px;
+        bottom: 50px;
         z-index: 0;
     }
     .site-image{

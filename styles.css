@@ -261,8 +261,8 @@ body{
     .header{
         width: 1500px;
         text-align: center;
-        padding-top: 50px;
-        padding-bottom: 50px;
+        padding-top: 40px;
+        padding-bottom: 40px;
         background-color:#003858;
         z-index: 1000;
         margin: 0;

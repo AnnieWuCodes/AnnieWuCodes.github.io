@@ -122,9 +122,9 @@ body{
     color: black;
     font-size: 16px;
     line-height: 2rem;
-    width: 800px;
+    width: 100%;
     Font-Family: 'Lora', Serif;
-    text-align: left;
+    
 }
 
 .about-text h2{
@@ -137,9 +137,9 @@ body{
     color: black;
     font-size: 16px;
     line-height: 2rem;
-    width: 800px;
+    width: 100%;
     Font-Family: 'Lora', Serif;
-    text-align: left;
+    
 }
 
 .price-container{

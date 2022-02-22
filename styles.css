@@ -369,7 +369,9 @@ body{
     .price-text h2{
         font-size: 100px;
         position: relative;
-        right: 7px;
+        left:250px;
+        padding: none;
+        margin: none;
         z-index:-1;
     }
 
@@ -377,7 +379,9 @@ body{
         font-size: 70px;
         line-height: 100px;
         position: relative;
-        right: 20px;
+        left: 20px;
+        padding: none;
+        margin: none;
         z-index:-1;
     }
 

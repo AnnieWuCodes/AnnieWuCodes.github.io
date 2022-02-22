@@ -363,6 +363,7 @@ body{
     .about-text p{
         font-size: 70px;
         line-height: 100px;
+        width: 1200px;
         position: relative;
         right: 20px;
         z-index:-1;
@@ -384,7 +385,6 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 100px;
         padding: none;
         margin: none;
         z-index:-1;

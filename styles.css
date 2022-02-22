@@ -118,8 +118,12 @@ body{
 
 }
 
-.about-text{
-  
+.about-text p{
+    color: black;
+    font-size: 16px;
+    line-height: 2rem;
+    width: 100%;
+    Font-Family: 'Lora', Serif;
 }
 
 .about-text h2{

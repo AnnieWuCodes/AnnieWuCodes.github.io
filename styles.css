@@ -122,7 +122,7 @@ body{
     color: black;
     font-size: 16px;
     line-height: 2rem;
-    width: 100%;
+    width: 800px;
     Font-Family: 'Lora', Serif;
     text-align: left;
 }
@@ -137,7 +137,7 @@ body{
     color: black;
     font-size: 16px;
     line-height: 2rem;
-    width: 100%;
+    width: 800px;
     Font-Family: 'Lora', Serif;
     text-align: left;
 }
@@ -367,7 +367,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 50px;
+        left: 100px;
         z-index:-1;
         text-align: center;
     }
@@ -388,7 +388,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 20px;
+        left: 50px;
         padding: none;
         margin: none;
         z-index:-1;

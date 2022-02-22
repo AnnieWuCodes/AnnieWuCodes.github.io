@@ -369,6 +369,7 @@ body{
         position: relative;
         left: 50px;
         z-index:-1;
+        text-align: center;
     }
 
 
@@ -391,6 +392,7 @@ body{
         padding: none;
         margin: none;
         z-index:-1;
+        text-align: center;
     }
 
 

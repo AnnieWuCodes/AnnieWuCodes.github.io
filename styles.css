@@ -113,7 +113,7 @@ body{
     padding-left: 100px;
     padding-right: 100px;
     height: 100%;
-    display: inline-flex;
+    display: center;
     position: center;
 
 }
@@ -135,13 +135,6 @@ body{
 
 
 
-.price-container{
-    padding-bottom: 25px;
-    padding-left: 100px;
-    padding-right: 100px;
-    height: 100%;
-    display: inline-flex;
-    position: center;
 
 
 .price-text h2{
@@ -358,7 +351,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 110px;
+        left: 100px;
         z-index:-1;
         text-align: center;
     }
@@ -379,7 +372,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 190px;
+        left: 200px;
         padding: none;
         margin: none;
         z-index:-1;

@@ -148,6 +148,8 @@ body{
     font-size: 16px;
     line-height: 2rem;
     width: 1200px;
+    padding-left: 100px;
+    padding-right: 100px;
     Font-Family: 'Lora', Serif;
 }
 
@@ -351,7 +353,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 100px;
+        left: 110px;
         z-index:-1;
         text-align: center;
     }
@@ -372,7 +374,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 100px;
+        left: 200px;
         padding: none;
         margin: none;
         z-index:-1;

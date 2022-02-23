@@ -124,7 +124,6 @@ body{
     line-height: 2rem;
     width: 1200px;
     Font-Family: 'Lora', Serif;
-    
 }
 
 .about-text h2{
@@ -132,10 +131,6 @@ body{
     padding-top: 25px;
     Font-Family: 'Roboto', Sans-Serif;
 }
-
-
-
-
 
 .price-text h2{
     color: #003858;
@@ -151,9 +146,6 @@ body{
     Font-Family: 'Lora', Serif;
 }
 
-
-
-
 .review-text-top{
     margin-top: 60px;
 }
@@ -162,7 +154,7 @@ body{
     max-width: 1500px;
     display: inline-flex;
     justify-content:space-around;
-    background-color: seashell
+    background-color: seashell;
 }
 
 .review{

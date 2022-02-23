@@ -133,28 +133,9 @@ body{
     Font-Family: 'Roboto', Sans-Serif;
 }
 
-.price-text p{
-    color: black;
-    font-size: 16px;
-    line-height: 2rem;
-    width: 100%;
-    Font-Family: 'Lora', Serif;
-    
-}
 
-.price-container{
-    padding-bottom: 25px;
-    padding-left: 100px;
-    padding-right: 100px;
-    height: 100%;
-    display: center;
-    position: center;
 
-}
 
-.price-text{
-  
-}
 
 .price-text h2{
     color: #003858;
@@ -169,6 +150,9 @@ body{
     width: 100%;
     Font-Family: 'Lora', Serif;
 }
+
+
+
 
 .review-text-top{
     margin-top: 60px;

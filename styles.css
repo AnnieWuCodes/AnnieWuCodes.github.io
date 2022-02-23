@@ -113,7 +113,7 @@ body{
     padding-left: 100px;
     padding-right: 100px;
     height: 100%;
-    display: center;
+    display: inline-flex;
     position: center;
 
 }
@@ -135,6 +135,13 @@ body{
 
 
 
+.price-container{
+    padding-bottom: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 100%;
+    display: inline-flex;
+    position: center;
 
 
 .price-text h2{

@@ -152,14 +152,8 @@ body{
 
 }
 
-.price-text-top{
-    margin-top: 60px;
-}
-
-.price-container{
-    max-width: 1500px;
-    display: inline-flex;
-    justify-content:space-around;
+.price-text{
+  
 }
 
 .price-text h2{
@@ -174,7 +168,6 @@ body{
     line-height: 2rem;
     width: 100%;
     Font-Family: 'Lora', Serif;
-    text-align: left;
 }
 
 .review-text-top{

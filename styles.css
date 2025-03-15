@@ -369,13 +369,17 @@ body{
         z-index:-1;
     }
 
-    .services-text h3{
-        font-size: 80px;
+   .services-text h3{
+        font-size: 70px;
+        line-height: 100px;
+        width: 1200px;
         position: relative;
-        left:90px;
+        left: 55px;
         padding: none;
         margin: none;
         z-index:-1;
+        text-align: center;
+    }
 
     .services-text p{
         font-size: 70px;

@@ -363,7 +363,6 @@ body{
     .services-text h2{
         font-size: 100px;
         position: relative;
-        right: 7px;
         z-index:-1;
     }
 
@@ -372,7 +371,6 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 105px;
         z-index:-1;
         text-align: center;
     }
@@ -382,7 +380,6 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
-        left: 105px;
         z-index:-1;
         text-align: center;
     }

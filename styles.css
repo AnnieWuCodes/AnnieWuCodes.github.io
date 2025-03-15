@@ -372,6 +372,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
+        right: 55px;
         text-align: center;
     }
 
@@ -380,6 +381,7 @@ body{
         line-height: 100px;
         width: 1200px;
         position: relative;
+        right: 55px;
         z-index:-1;
         text-align: center;
     }

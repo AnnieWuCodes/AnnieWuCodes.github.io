@@ -35,6 +35,7 @@ body{
     list-style: none;
     text-decoration-line: none;
     position: relative;
+    left: 50px;
 }
 
 .header li a{

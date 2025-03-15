@@ -144,7 +144,8 @@ body{
 }
 .services-text h3{
     color: black;
-    padding-top: 20px;
+    font-size: 20px;
+    line-heigh: 2rem;
     Font-Family: 'Lora', Serif;
 }
 

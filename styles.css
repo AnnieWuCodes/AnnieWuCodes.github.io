@@ -128,7 +128,7 @@ body{
     Font-Family: 'Roboto', Sans-Serif;
 }
 
-.price-container{
+.services-container{
     padding-bottom: 25px;
     padding-left: 100px;
     padding-right: 100px;
@@ -137,13 +137,13 @@ body{
     position: center;
 }
 
-.price-text h2{
+.services-text h2{
     color: #003858;
     padding-top: 25px;
     Font-Family: 'Roboto', Sans-Serif;
 }
 
-.price-text p{
+.services-text p{
     color: black;
     font-size: 16px;
     line-height: 2rem;

@@ -130,8 +130,8 @@ body{
 
 .services-container{
     padding-bottom: 25px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 500px;
+    padding-right: 500px;
     height: 100%;
     display: inline-flex;
     position: center;
@@ -140,6 +140,11 @@ body{
 .services-text h2{
     color: #003858;
     padding-top: 25px;
+    Font-Family: 'Roboto', Sans-Serif;
+}
+.services-text h3{
+    color: #003858;
+    padding-top: 20px;
     Font-Family: 'Roboto', Sans-Serif;
 }
 

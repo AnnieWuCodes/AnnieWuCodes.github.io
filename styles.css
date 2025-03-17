@@ -275,7 +275,7 @@ body{
   and (-webkit-min-device-pixel-ratio: 3) {
 
     .header {
-        width: 1500px;
+        width: 100%;
         text-align: center;
         padding: 10px 0;
         position: fixed;

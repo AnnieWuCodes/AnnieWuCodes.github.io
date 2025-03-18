@@ -272,13 +272,8 @@ body{
 
 @media only screen 
   and (min-device-width: 375px) 
-  and (max-device-width: 900px) 
+  and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-
-    body{
-        overflow-x: hidden; 
-        max-width: 100%;
-    }
     
     .name a{
         display: none;
@@ -290,6 +285,7 @@ body{
         background-color:#003858;
         z-index: 1;
         margin: 0;
+        right: -20px;
         display: block;
         position: sticky;
         top: 0;

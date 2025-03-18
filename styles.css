@@ -275,7 +275,7 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-    body {
+    body{
         overflow-x: hidden; 
         max-width: 100%;
     }
@@ -451,8 +451,6 @@ body{
         display: block;
         padding-top: 10px;
         margin: 0 auto;
-        overflow-x: hidden; 
-        max-width: 100%;
     }
 
     .about-container{
@@ -462,8 +460,6 @@ body{
         margin-top: 1000px;
         display: block;
         z-index:-1;
-        overflow-x: hidden; 
-        max-width: 100%;
 
     }
 
@@ -475,23 +471,17 @@ body{
         margin: 20px;
         display: block;
         z-index:-1;
-        overflow-x: hidden; 
-        max-width: 100%;
     }
 
     .gallery-container{
         width: 1500px;
         padding: 0;
         margin: 0;
-        overflow-x: hidden; 
-        max-width: 100%;
     }
 
     .contact-container{
         width: 1500px;
         height: 1200px;
-        overflow-x: hidden; 
-        max-width: 100%;
     }
 
     .star{

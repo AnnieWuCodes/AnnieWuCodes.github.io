@@ -275,8 +275,14 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-    body{
-        overflow-x: hidden;
+        box-sizing: border-box; /* Ensure padding/borders don't cause overflow */
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        overflow-x: hidden; 
+        max-width: 100%;
     }
     
     .name a{

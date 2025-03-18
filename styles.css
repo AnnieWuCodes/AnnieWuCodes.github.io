@@ -5,6 +5,7 @@ body{
     background-color: white;
     opacity:0.9;
     text-align:center;
+    overflow-x: hidden;
     margin:0;
 }
 
@@ -274,8 +275,6 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-        html,body{
-        right: -20px;
     }
     
     .name a{

@@ -276,8 +276,6 @@ body{
   and (-webkit-min-device-pixel-ratio: 3) { 
 
     html,body{
-        margin: 0px;
-        padding: 0px;
         overflow-x: hidden;
     }
     

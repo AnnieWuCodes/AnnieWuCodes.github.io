@@ -275,7 +275,7 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
-    html,body{
+    body{
         right: -20px;
         overflow-x: hidden;
     }

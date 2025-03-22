@@ -275,6 +275,14 @@ body{
   and (max-device-width: 812px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
 
+    
+.Body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    
+}
+
     .name a{
         display: none;
     }
